@@ -5,7 +5,7 @@ import Button from '../components/ui/Button';
 import ProductFilter from '../components/features/ProductFilter';
 import ProductSearch from '../components/features/ProductSearch';
 import { ArrowRight } from 'lucide-react';
-import { Link } from '../ui/Link';
+import { Link } from '../components/ui/Link';
 import { allProducts, Product } from '../data/products'; // Import allProducts and Product interface
 
 const filterGroups = [
